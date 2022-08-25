@@ -11,4 +11,4 @@ A Insecure Way Could Look Like THis
 
 ## How To Secure The Cookie
 
-It's Easy You Just Need To Replace The ```setcookie("NameoFCookie", "ValueOfCOokie")``` to ```setcookie("myCookie", "value", "", "", "", true,"");```
+It's Easy You Just Need To Replace The ```setcookie($cookieName, $cookieValue, 0, '/', $domain).``` to ```setcookie($cookieName, $cookieValue, 0, '/', $domain, false, false)```
