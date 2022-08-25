@@ -21,12 +21,13 @@
      There Is No Impact So There Is No Problem You Can Let it with no damage
      
 ## Information Disclosure
- # Found At: https://careingtondentalsavings.com/wp-json/oembed/1.0/embed && https://careingtondentalsavings.com/wp-json/wp/v2/users
- # First Url:  https://careingtondentalsavings.com/wp-json/oembed/1.0/embed
-    - After Some Enumeration I Found The Url Can Take An Url: https://careingtondentalsavings.com/wp-json/oembed/1.0/embed?url= But We Can't Exploit It There Is No Impact Here
- # Second Url: https://careingtondentalsavings.com/wp-json/wp/v2/users 
-     - After Enter At This Link You Will Se Some Sensitive Data
+ # Found At: ```https://careingtondentalsavings.com/wp-json/oembed/1.0/embed && https://careingtondentalsavings.com/wp-json/wp/v2/users```
+ # First Url:  
+    ```https://careingtondentalsavings.com/wp-json/oembed/1.0/embed```
+          - After Some Enumeration I Found The Url Can Take An Url: https://careingtondentalsavings.com/wp-json/oembed/1.0/embed?url= But We Can't Exploit It There Is No Impact Here
+ # Second Url: 
+   ```https://careingtondentalsavings.com/wp-json/wp/v2/users ```
+         - After Enter At This Link You Will Se Some Sensitive Data
       
-      ![image](https://user-images.githubusercontent.com/110203763/186718208-223860c6-19ed-4434-a942-20d2e215e64f.png)
 
     
