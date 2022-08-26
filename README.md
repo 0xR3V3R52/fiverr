@@ -11,7 +11,7 @@
 
   # How To Secure The Cookie
 
-      It's Easy You Just Need To Replace The ```setcookie($cookieName, $cookieValue, 0, '/', $domain).``` to ```setcookie($cookieName, $cookieValue, 0, '/', $domain, false, false)```
+      It's Easy You Just Need To Replace The ```setcookie($cookieName, $cookieValue, 0, '/', $domain).``` to ```setcookie($cookieName, $cookieValue, 0, '/', $domain, false, true)```
 
 ## Composer Configuration Disclosure
   # File Path: 
